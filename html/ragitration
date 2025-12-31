@@ -1,0 +1,15 @@
+<html> 
+ <head>
+   <title>Registration</title>
+ </head>
+ <body>
+<h1>Registration Page </h1> <hr>
+<pre> <b>user name </b> <input type="text"> <br><br>
+<b>Email</b> <input type="Email"> <br><br>        
+<b>Password</b><input type="password"> <br><br>
+<b>Confirm pasword</b><input type="password">
+
+ </body>
+
+
+</html>
